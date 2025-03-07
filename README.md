@@ -2,7 +2,7 @@
 - 👀 I’m interested in sOLIDITY
 - 🌱 I’m currently learning C++,C#, PHYTON
 - 💞️ I’m looking to collaborate on WEB, AI
-- 📫 How to reach me @IkhsanuddinAF@gmail.com
+- 📫 How to reach me IkhsanuddinAF@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: -
 

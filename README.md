@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GITikhsan
-- 👀 I’m interested in sOLIDITY
+- 👀 I’m interested in SOLIDITY
 - 🌱 I’m currently learning C++,C#, PHYTON
 - 💞️ I’m looking to collaborate on WEB, AI
 - 📫 How to reach me IkhsanuddinAF@gmail.com

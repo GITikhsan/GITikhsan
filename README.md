@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @GITikhsan
 - 👀 I’m interested in sOLIDITY
 - 🌱 I’m currently learning C++,C#, PHYTON
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on WEB, AI
+- 📫 How to reach me @IkhsanuddinAF@gmail.com
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: -
 
 <!---
 GITikhsan/GITikhsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

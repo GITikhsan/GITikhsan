@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GITikhsan
 - 👀 I’m interested in SOLIDITY
-- 🌱 I’m currently learning C++,C#, PHYTON
+- 🌱 I’m currently learning C++,C#, PHYTON, html, css.
 - 💞️ I’m looking to collaborate on WEB, AI
 - 📫 How to reach me IkhsanuddinAF@gmail.com
 - 😄 Pronouns: HE/HIM

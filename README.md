@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GITikhsan
+- 👋 Hi, I’m @Ikhsan
 - 👀 I’m interested in SOLIDITY
 - 🌱 I’m currently learning C++,C#, PHYTON, html, css, php.
-- 💞️ I’m looking to collaborate on WEB, AI
+- 💞️ I’m looking to collaborate on WEB, Mobile, Desktop.
 - 📫 How to reach me 06ikhsanuddinaf@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: -
